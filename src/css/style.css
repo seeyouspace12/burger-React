@@ -251,9 +251,9 @@ header.top .header-content .header-rating .header-rating_tag {
 }
 header.top .header-content .header-divider {
   height: 1px;
-  opacity: 0.2;
+  opacity: 0.9;
   margin-top: 20px;
-  margin-bottom: 8px;
+  margin-bottom: 28px;
   background-color: #fff;
 }
 header.top .header-content h1 {

@@ -15,13 +15,10 @@ const Header = (props) => {
                     <div className='header-divider'>
                         <h1 className='font-effect-fire-animation'>{props.title}</h1>
                         <h3>
-                                <span>
-                                    Швидка доставка гарячих
-                                    <span className='sub-header'>#бургерів</span>
-                                </span>
+                            Швидка доставка гарячих
+                            <span className='sub-header'>#бургерів</span>
                         </h3>
                     </div>
-
                 </div>
             </div>
         </header>
